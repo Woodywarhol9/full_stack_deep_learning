@@ -1,7 +1,5 @@
 # Full Stack Deep Learning Spring 2021 Labs
 
-##### This repository contains code of FSDL by Me! 
-
 As part of Full Stack Deep Learning 2021, we will incrementally develop a complete deep learning codebase to understand the content of handwritten paragraphs.
 
 We will use the modern stack of PyTorch and PyTorch-Ligtning
